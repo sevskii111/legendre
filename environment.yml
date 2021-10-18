@@ -11,4 +11,5 @@ dependencies:
   - ca-certificates
   - certifi
   - openssl
+  - scipy
 prefix: /opt/homebrew/Caskroom/miniforge/base/envs/legendre
